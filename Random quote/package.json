@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "first nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "Enter"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Merc5Dark/nodejs.git"
+  },
+  "author": "Merc5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Merc5Dark/nodejs/issues"
+  },
+  "homepage": "https://github.com/Merc5Dark/nodejs#readme"
+}
